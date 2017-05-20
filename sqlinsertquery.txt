@@ -1,0 +1,1 @@
+insert into users values('smith',md5('mypass'),'John Smith','smith@cse.uta.edu');

@@ -1,0 +1,4 @@
+1) In the login form:
+   Type username: smith and password: mypass
+2) You will be able to login
+3) You should be having phpMyAdmin configured in your local system.
